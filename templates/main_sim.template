@@ -5,7 +5,7 @@
 #include <webots/DistanceSensor.hpp>
 #include "includes/Event.hpp"
 #include "includes/Controller.hpp"
-#include "${className}.h"
+#include "${className}.hpp"
 
 using namespace webots;
 
